@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\DocToExcel\\mslearn-ai-document-intelligence\\Labfiles\\01-prebuild-models\\CSharp\\invoicereader.csproj": {}
+    "C:\\Users\\user\\Desktop\\DocToExcel2\\DocToExcel\\Labfiles\\01-prebuild-models\\CSharp\\invoicereader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\DocToExcel\\mslearn-ai-document-intelligence\\Labfiles\\01-prebuild-models\\CSharp\\invoicereader.csproj": {
+    "C:\\Users\\user\\Desktop\\DocToExcel2\\DocToExcel\\Labfiles\\01-prebuild-models\\CSharp\\invoicereader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\DocToExcel\\mslearn-ai-document-intelligence\\Labfiles\\01-prebuild-models\\CSharp\\invoicereader.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\DocToExcel2\\DocToExcel\\Labfiles\\01-prebuild-models\\CSharp\\invoicereader.csproj",
         "projectName": "invoicereader",
-        "projectPath": "C:\\Users\\user\\Desktop\\DocToExcel\\mslearn-ai-document-intelligence\\Labfiles\\01-prebuild-models\\CSharp\\invoicereader.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\DocToExcel2\\DocToExcel\\Labfiles\\01-prebuild-models\\CSharp\\invoicereader.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\DocToExcel\\mslearn-ai-document-intelligence\\Labfiles\\01-prebuild-models\\CSharp\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\DocToExcel2\\DocToExcel\\Labfiles\\01-prebuild-models\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

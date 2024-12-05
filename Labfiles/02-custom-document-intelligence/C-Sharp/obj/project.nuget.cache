@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xF4nEQ5oOGE=",
+  "dgSpecHash": "xxF2QTTKlwM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\DocToExcel\\mslearn-ai-document-intelligence\\Labfiles\\02-custom-document-intelligence\\C-Sharp\\test-model.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\DocToExcel2\\DocToExcel\\Labfiles\\02-custom-document-intelligence\\C-Sharp\\test-model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.ai.formrecognizer\\4.1.0\\azure.ai.formrecognizer.4.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.34.0\\azure.core.1.34.0.nupkg.sha512",

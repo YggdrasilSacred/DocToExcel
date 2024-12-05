@@ -3,9 +3,9 @@ from azure.ai.formrecognizer import DocumentAnalysisClient
 
 # Store connection information
 endpoint = "https://docintfeng.cognitiveservices.azure.com/"
-key = "2Z8HNY6b1GBW09PuvORQr8Gh5jGZVSLKdKqasgcVTCvvq8laThXKJQQJ99ALACYeBjFXJ3w3AAALACOGzNgZ"
+key = "Dcg3SI88GLqCcqxspAEJrrZ9A9YhZntJ7oV33e3BwG1oJ4XRvFIgJQQJ99ALACYeBjFXJ3w3AAALACOGy3Vg"
 
-fileUri = "https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence/blob/main/Labfiles/01-prebuild-models/test-invoices/iCuci_Apr_23.pdf?raw=true"
+fileUri = "https://github.com/YggdrasilSacred/DocToExcel/blob/main/Labfiles/01-prebuild-models/test-invoices/iCuci_Apr_23.pdf?raw=true"
 fileLocale = "en-US"
 fileModelId = "prebuilt-invoice"
 
